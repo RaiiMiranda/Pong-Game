@@ -4,40 +4,18 @@
   <img src="https://img.shields.io/static/v1?message=GameMaker&label=&color=5d0b45&labelColor=&style=for-the-badge" height="25" alt="GameMaker" />
   <img src="https://img.shields.io/static/v1?message=GML&label=&color=cb3142&labelColor=&style=for-the-badge" height="25" alt="GML" />
 
+
+
+<br>
+
+<img src="img-readme/fundo.png">
+<img src="img-readme/screenshot1.png">
+<img src="img-readme/screenshot2.png">
+<img src="img-readme/screenshot3.png">
+<img src="img-readme/screenshot4.png">
+<img src="img-readme/screenshot5.png">
+
 </div>
-
-<br>
-
-<img src="img-readme/fundo.png" width="100%">
-
-> Capa do Pong no Itch.io
-<br>
-
-<img src="img-readme/screenshot1.png" width="100%">
-
-> Menu principal
-<br>
-
-<img src="img-readme/screenshot2.png" width="100%">
-
-> Menu de opções do jogo
-<br>
-
-<img src="img-readme/screenshot3.png" width="100%">
-
-> Tela da partida
-<br>
-
-<img src="img-readme/screenshot4.png" width="100%">
-
-> Menu de pause
-<br>
-
-<img src="img-readme/screenshot5.png" width="100%">
-
-> Tela de vitória ou derrota
-<br>
-
 
 <img src="https://img.shields.io/static/v1?message=Descri%C3%A7%C3%A3o%20do%20Projeto&label=&color=cb3142&style=for-the-badge" height="30" alt="Descrição" />
 
