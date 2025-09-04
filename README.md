@@ -8,12 +8,12 @@
 
 <br>
 
-<img src="img-readme/fundo.png">
-<img src="img-readme/screenshot1.png">
-<img src="img-readme/screenshot2.png">
-<img src="img-readme/screenshot3.png">
-<img src="img-readme/screenshot4.png">
-<img src="img-readme/screenshot5.png">
+<img src="img-readme/fundo.png" width="100%">
+<img src="img-readme/screenshot1.png" width="100%">
+<img src="img-readme/screenshot2.png" width="100%">
+<img src="img-readme/screenshot3.png" width="100%">
+<img src="img-readme/screenshot4.png" width="100%">
+<img src="img-readme/screenshot5.png" width="100%">
 
 </div>
 
