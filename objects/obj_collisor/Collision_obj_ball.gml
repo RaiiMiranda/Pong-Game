@@ -1,0 +1,1 @@
+// Deixa o objeto de colisão com 'Solid' marcado e pronto :D
