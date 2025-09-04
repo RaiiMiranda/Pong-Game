@@ -1,6 +1,6 @@
 <div align="center">
 
-  # 🏓 Pong-Game
+  # 🏓 Pong Game
   <img src="https://img.shields.io/static/v1?message=GameMaker&label=&color=5d0b45&labelColor=&style=for-the-badge" height="25" alt="GameMaker" />
   <img src="https://img.shields.io/static/v1?message=GML&label=&color=cb3142&labelColor=&style=for-the-badge" height="25" alt="GML" />
 
